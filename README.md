@@ -1,5 +1,8 @@
 # LinkedIn-group-8-CMPE273
 
+Linkedin: It is the simulation of job related service provider application Linkedin. It has all the major features provided by 
+Linkedin such as posting job by recruiters, searching and applying jobs by applicants, connecting with people and messaging them.
+
 # Instructions
 
 Download kafka version kafka_2.11-1.1.0
